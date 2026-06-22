@@ -1,0 +1,466 @@
+,total,locked,free,currency,account_id,account_type,base_currency,margins,reported,info
+2025-01-01 05:00:00+00:00,10000.00,0.00,10000.00,USD,SIM-001,MARGIN,USD,[],True,{}
+2025-01-07 08:00:00+00:00,9997.92,0.00,9997.92,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-07 12:00:00+00:00,9670.84,312.94,9357.90,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '312.94', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-08 18:00:00+00:00,9668.78,0.00,9668.78,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-10 05:00:00+00:00,9390.72,309.68,9081.04,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '309.68', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-10 08:00:00+00:00,9388.66,0.00,9388.66,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-10 13:00:00+00:00,8900.61,309.39,8591.22,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '309.39', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-13 14:00:00+00:00,8898.57,0.00,8898.57,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-15 03:00:00+00:00,9832.51,306.55,9525.96,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '306.55', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-15 13:00:00+00:00,9830.44,0.00,9830.44,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-15 15:00:00+00:00,9433.38,310.64,9122.74,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '310.64', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-16 16:00:00+00:00,9431.32,0.00,9431.32,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-17 04:00:00+00:00,9344.26,309.36,9034.90,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '309.36', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-17 11:00:00+00:00,9342.20,0.00,9342.20,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-17 12:00:00+00:00,9233.14,309.42,8923.72,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '309.42', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-20 03:00:00+00:00,9231.08,0.00,9231.08,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-21 00:00:00+00:00,9817.01,309.45,9507.56,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '309.45', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-21 16:00:00+00:00,9814.92,0.00,9814.92,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-22 02:00:00+00:00,9714.84,312.97,9401.87,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '312.97', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-22 09:00:00+00:00,9712.75,0.00,9712.75,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-22 14:00:00+00:00,9503.66,313.69,9189.97,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '313.69', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-23 14:00:00+00:00,9501.58,0.00,9501.58,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-23 15:00:00+00:00,9380.50,312.54,9067.96,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '312.54', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-23 16:00:00+00:00,9378.42,0.00,9378.42,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-24 20:00:00+00:00,10131.32,312.87,9818.45,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '312.87', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-27 11:00:00+00:00,10129.22,0.00,10129.22,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-27 17:00:00+00:00,9896.12,315.67,9580.45,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '315.67', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-28 16:00:00+00:00,9894.03,0.00,9894.03,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-29 09:00:00+00:00,9674.95,313.03,9361.92,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '313.03', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-29 16:00:00+00:00,9672.87,0.00,9672.87,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-30 09:00:00+00:00,9551.79,312.84,9238.95,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '312.84', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-30 13:00:00+00:00,9549.70,0.00,9549.70,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-30 21:00:00+00:00,8905.62,313.99,8591.63,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '313.99', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-31 07:00:00+00:00,8903.54,0.00,8903.54,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-31 08:00:00+00:00,8696.46,312.45,8384.01,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '312.45', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-01-31 15:00:00+00:00,8694.38,0.00,8694.38,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-01-31 21:00:00+00:00,8315.31,312.22,8003.09,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '312.22', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-03 12:00:00+00:00,8313.26,0.00,8313.26,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-05 01:00:00+00:00,9493.18,307.96,9185.22,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '307.96', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-05 08:00:00+00:00,9491.10,0.00,9491.10,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-05 16:00:00+00:00,9630.02,312.38,9317.64,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '312.38', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-06 18:00:00+00:00,9627.94,0.00,9627.94,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-07 12:00:00+00:00,9475.86,311.99,9163.87,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '311.99', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-10 08:00:00+00:00,9473.80,0.00,9473.80,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-12 05:00:00+00:00,9834.73,309.93,9524.80,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '309.93', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-12 07:00:00+00:00,9832.65,0.00,9832.65,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-12 13:00:00+00:00,9433.58,311.51,9122.07,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '311.51', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-12 17:00:00+00:00,9431.49,0.00,9431.49,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-12 22:00:00+00:00,9007.41,313.10,8694.31,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '313.10', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-13 02:00:00+00:00,9005.33,0.00,9005.33,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-13 10:00:00+00:00,9122.25,312.42,8809.83,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '312.42', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-13 20:00:00+00:00,9120.16,0.00,9120.16,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-14 05:00:00+00:00,9031.07,314.15,8716.92,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '314.15', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-14 09:00:00+00:00,9028.97,0.00,9028.97,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-14 10:00:00+00:00,8872.88,314.71,8558.17,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '314.71', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-14 14:00:00+00:00,8870.78,0.00,8870.78,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-14 20:00:00+00:00,8714.68,315.50,8399.18,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '315.50', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-18 23:00:00+00:00,8712.59,0.00,8712.59,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-19 09:00:00+00:00,8536.50,313.72,8222.78,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '313.72', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-19 21:00:00+00:00,8534.41,0.00,8534.41,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-21 05:00:00+00:00,9233.31,313.00,8920.31,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '313.00', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-24 00:00:00+00:00,9231.21,0.00,9231.21,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-24 08:00:00+00:00,8987.11,315.40,8671.71,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '315.40', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-25 03:00:00+00:00,8985.01,0.00,8985.01,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-26 03:00:00+00:00,9301.91,314.48,8987.43,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '314.48', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-27 09:00:00+00:00,9299.81,0.00,9299.81,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-27 13:00:00+00:00,8706.72,314.77,8391.95,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '314.77', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-02-28 06:00:00+00:00,8704.64,0.00,8704.64,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-02-28 19:00:00+00:00,8519.57,311.86,8207.71,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '311.86', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-03 00:00:00+00:00,8517.49,0.00,8517.49,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-04 01:00:00+00:00,9291.39,312.58,8978.81,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '312.58', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-04 09:00:00+00:00,9289.29,0.00,9289.29,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-05 06:00:00+00:00,10484.16,315.67,10168.49,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '315.67', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-05 07:00:00+00:00,10482.02,0.00,10482.02,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-06 00:00:00+00:00,11690.86,320.52,11370.34,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '320.52', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-07 07:00:00+00:00,11688.69,0.00,11688.69,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-07 17:00:00+00:00,11815.52,325.21,11490.31,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '325.21', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-11 00:00:00+00:00,11813.35,0.00,11813.35,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-11 21:00:00+00:00,12403.17,325.88,12077.29,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '325.88', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-13 22:00:00+00:00,12401.00,0.00,12401.00,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-14 01:00:00+00:00,12280.83,325.88,11954.95,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '325.88', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-14 05:00:00+00:00,12278.66,0.00,12278.66,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-17 05:00:00+00:00,12536.48,325.84,12210.64,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '325.84', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-17 09:00:00+00:00,12534.30,0.00,12534.30,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-18 00:00:00+00:00,12710.12,327.27,12382.85,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '327.27', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-18 08:00:00+00:00,12707.93,0.00,12707.93,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-18 11:00:00+00:00,12346.75,328.88,12017.87,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '328.88', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-18 17:00:00+00:00,12344.56,0.00,12344.56,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-19 00:00:00+00:00,12210.37,328.77,11881.60,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '328.77', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-19 20:00:00+00:00,12208.19,0.00,12208.19,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-20 07:00:00+00:00,11969.01,327.41,11641.60,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '327.41', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-20 19:00:00+00:00,11966.84,0.00,11966.84,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-21 05:00:00+00:00,11717.67,325.92,11391.75,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '325.92', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-21 07:00:00+00:00,11715.50,0.00,11715.50,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-21 15:00:00+00:00,11432.34,325.42,11106.92,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '325.42', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-24 00:00:00+00:00,11430.17,0.00,11430.17,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-24 13:00:00+00:00,11018.01,325.42,10692.59,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '325.42', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-25 01:00:00+00:00,11015.85,0.00,11015.85,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-25 08:00:00+00:00,10896.69,324.37,10572.32,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '324.37', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-25 09:00:00+00:00,10894.53,0.00,10894.53,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-25 19:00:00+00:00,10834.37,324.33,10510.04,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '324.33', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-26 08:00:00+00:00,10832.21,0.00,10832.21,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-26 13:00:00+00:00,10574.05,324.26,10249.79,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '324.26', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-26 14:00:00+00:00,10571.89,0.00,10571.89,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-26 15:00:00+00:00,10476.73,324.01,10152.72,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '324.01', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-26 16:00:00+00:00,10474.57,0.00,10474.57,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-26 17:00:00+00:00,10170.42,323.91,9846.51,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '323.91', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-27 02:00:00+00:00,10168.26,0.00,10168.26,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-28 03:00:00+00:00,10318.10,323.59,9994.51,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '323.59', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-03-28 13:00:00+00:00,10315.94,0.00,10315.94,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-03-31 07:00:00+00:00,10512.77,324.65,10188.12,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '324.65', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-01 00:00:00+00:00,10510.60,0.00,10510.60,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-01 05:00:00+00:00,10332.44,325.07,10007.37,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '325.07', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-01 23:00:00+00:00,10330.28,0.00,10330.28,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-03 17:00:00+00:00,12650.07,324.16,12325.91,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '324.16', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-07 05:00:00+00:00,12647.87,0.00,12647.87,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-07 13:00:00+00:00,11873.68,330.80,11542.88,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '330.80', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-08 00:00:00+00:00,11871.49,0.00,11871.49,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-08 10:00:00+00:00,11750.30,328.48,11421.82,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '328.48', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-08 12:00:00+00:00,11748.11,0.00,11748.11,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-08 14:00:00+00:00,11375.93,328.73,11047.20,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '328.73', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-08 18:00:00+00:00,11373.74,0.00,11373.74,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-09 14:00:00+00:00,12242.53,328.88,11913.65,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '328.88', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-10 07:00:00+00:00,12240.32,0.00,12240.32,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-11 11:00:00+00:00,15213.05,331.16,14881.89,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '331.16', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-16 00:00:00+00:00,15210.79,0.00,15210.79,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-17 00:00:00+00:00,15710.52,339.82,15370.70,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '339.82', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-17 21:00:00+00:00,15708.25,0.00,15708.25,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-18 06:00:00+00:00,15640.98,341.45,15299.53,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '341.45', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-18 10:00:00+00:00,15638.70,0.00,15638.70,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-21 14:00:00+00:00,16866.40,341.56,16524.84,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '341.56', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-23 07:00:00+00:00,16864.12,0.00,16864.12,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-23 14:00:00+00:00,16525.85,341.83,16184.02,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '341.83', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-24 00:00:00+00:00,16523.58,0.00,16523.58,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-25 00:00:00+00:00,16546.31,340.67,16205.64,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '340.67', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-25 11:00:00+00:00,16544.04,0.00,16544.04,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-27 23:00:00+00:00,16490.77,340.83,16149.94,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '340.83', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-28 04:00:00+00:00,16488.49,0.00,16488.49,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-28 06:00:00+00:00,16086.22,341.49,15744.73,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '341.49', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-04-28 13:00:00+00:00,16083.95,0.00,16083.95,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-04-29 02:00:00+00:00,16418.67,341.29,16077.38,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '341.29', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-01 08:00:00+00:00,16416.40,0.00,16416.40,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-01 15:00:00+00:00,16005.14,339.98,15665.16,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '339.98', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-01 21:00:00+00:00,16002.88,0.00,16002.88,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-02 17:00:00+00:00,16141.62,339.05,15802.57,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '339.05', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-05 02:00:00+00:00,16139.35,0.00,16139.35,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-05 07:00:00+00:00,15854.09,340.59,15513.50,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '340.59', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-05 09:00:00+00:00,15851.82,0.00,15851.82,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-05 15:00:00+00:00,15592.56,340.52,15252.04,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '340.52', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-06 04:00:00+00:00,15590.29,0.00,15590.29,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-06 23:00:00+00:00,15729.02,340.09,15388.93,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '340.09', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-07 06:00:00+00:00,15726.74,0.00,15726.74,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-07 09:00:00+00:00,15531.47,341.64,15189.83,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '341.64', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-07 10:00:00+00:00,15529.20,0.00,15529.20,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-07 11:00:00+00:00,15462.93,341.25,15121.68,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '341.25', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-08 13:00:00+00:00,15460.67,0.00,15460.67,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-08 14:00:00+00:00,15190.41,339.52,14850.89,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '339.52', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-09 04:00:00+00:00,15188.16,0.00,15188.16,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-12 00:00:00+00:00,15273.91,337.19,14936.72,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '337.19', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-12 22:00:00+00:00,15271.69,0.00,15271.69,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-14 06:00:00+00:00,16213.45,333.11,15880.34,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '333.11', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-14 07:00:00+00:00,16211.21,0.00,16211.21,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-14 14:00:00+00:00,16170.97,336.77,15834.20,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '336.77', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-15 06:00:00+00:00,16168.72,0.00,16168.72,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-15 11:00:00+00:00,15701.48,337.15,15364.33,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '337.15', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-15 12:00:00+00:00,15699.24,0.00,15699.24,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-15 13:00:00+00:00,15584.00,336.66,15247.34,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '336.66', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-16 00:00:00+00:00,15581.76,0.00,15581.76,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-16 10:00:00+00:00,15517.52,336.47,15181.05,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '336.47', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-19 00:00:00+00:00,15515.28,0.00,15515.28,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-19 17:00:00+00:00,15840.03,336.25,15503.78,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '336.25', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-20 07:00:00+00:00,15837.77,0.00,15837.77,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-20 10:00:00+00:00,15492.52,338.67,15153.85,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '338.67', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-20 17:00:00+00:00,15490.26,0.00,15490.26,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-21 12:00:00+00:00,16088.99,338.52,15750.47,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '338.52', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-23 00:00:00+00:00,16086.73,0.00,16086.73,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-26 08:00:00+00:00,16959.45,339.25,16620.20,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '339.25', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-28 00:00:00+00:00,16957.18,0.00,16957.18,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-28 01:00:00+00:00,16787.92,340.36,16447.56,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '340.36', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-28 07:00:00+00:00,16785.65,0.00,16785.65,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-28 15:00:00+00:00,16361.39,340.13,16021.26,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '340.13', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-28 22:00:00+00:00,16359.13,0.00,16359.13,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-28 23:00:00+00:00,15722.88,339.05,15383.83,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '339.05', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-29 07:00:00+00:00,15720.62,0.00,15720.62,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-05-30 02:00:00+00:00,16435.35,338.63,16096.72,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '338.63', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-05-30 18:00:00+00:00,16433.08,0.00,16433.08,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-03 00:00:00+00:00,17276.79,341.10,16935.69,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '341.10', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-04 01:00:00+00:00,17274.51,0.00,17274.51,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-04 03:00:00+00:00,17104.24,341.87,16762.37,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '341.87', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-04 06:00:00+00:00,17101.96,0.00,17101.96,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-05 03:00:00+00:00,17437.68,341.64,17096.04,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '341.64', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-05 12:00:00+00:00,17435.39,0.00,17435.39,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-05 21:00:00+00:00,17564.10,343.20,17220.90,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '343.20', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-05 22:00:00+00:00,17561.81,0.00,17561.81,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-06 01:00:00+00:00,17467.52,343.87,17123.65,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '343.87', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-09 01:00:00+00:00,17465.24,0.00,17465.24,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-09 13:00:00+00:00,17306.96,342.77,16964.19,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '342.77', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-09 15:00:00+00:00,17304.67,0.00,17304.67,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-10 01:00:00+00:00,17028.39,343.09,16685.30,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '343.09', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-10 10:00:00+00:00,17026.10,0.00,17026.10,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-11 01:00:00+00:00,16879.82,343.01,16536.81,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '343.01', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-11 09:00:00+00:00,16877.53,0.00,16877.53,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-12 17:00:00+00:00,18292.21,343.36,17948.85,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '343.36', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-13 16:00:00+00:00,18289.90,0.00,18289.90,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-16 01:00:00+00:00,18061.59,346.97,17714.62,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '346.97', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-16 05:00:00+00:00,18059.28,0.00,18059.28,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-16 19:00:00+00:00,18029.97,347.05,17682.92,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.05', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-18 03:00:00+00:00,18027.67,0.00,18027.67,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-18 19:00:00+00:00,17774.37,345.34,17429.03,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '345.34', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-19 08:00:00+00:00,17772.07,0.00,17772.07,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-20 12:00:00+00:00,18112.77,344.66,17768.11,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '344.66', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-20 17:00:00+00:00,18110.46,0.00,18110.46,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-20 18:00:00+00:00,18055.15,346.33,17708.82,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '346.33', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-23 14:00:00+00:00,18052.84,0.00,18052.84,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-24 08:00:00+00:00,18665.52,346.25,18319.27,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '346.25', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-25 16:00:00+00:00,18663.19,0.00,18663.19,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-26 12:00:00+00:00,19423.85,349.27,19074.58,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.27', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-27 11:00:00+00:00,19421.51,0.00,19421.51,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-27 17:00:00+00:00,19296.17,351.77,18944.40,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.77', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-30 05:00:00+00:00,19293.82,0.00,19293.82,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-06-30 09:00:00+00:00,19236.48,352.10,18884.38,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.10', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-06-30 15:00:00+00:00,19234.13,0.00,19234.13,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-01 05:00:00+00:00,19384.77,353.47,19031.30,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.47', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-01 09:00:00+00:00,19382.41,0.00,19382.41,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-01 13:00:00+00:00,19297.05,354.76,18942.29,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '354.76', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-02 17:00:00+00:00,19294.69,0.00,19294.69,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-03 05:00:00+00:00,19292.33,354.22,18938.11,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '354.22', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-03 06:00:00+00:00,19289.97,0.00,19289.97,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-03 09:00:00+00:00,19189.61,354.43,18835.18,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '354.43', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-03 23:00:00+00:00,19187.26,0.00,19187.26,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-07 02:00:00+00:00,19156.91,353.47,18803.44,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.47', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-07 22:00:00+00:00,19154.56,0.00,19154.56,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-08 12:00:00+00:00,19001.22,352.43,18648.79,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.43', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-08 20:00:00+00:00,18998.87,0.00,18998.87,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-09 03:00:00+00:00,18804.53,352.10,18452.43,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.10', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-09 06:00:00+00:00,18802.18,0.00,18802.18,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-09 10:00:00+00:00,18552.84,352.14,18200.70,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.14', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-09 14:00:00+00:00,18550.50,0.00,18550.50,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-10 09:00:00+00:00,18699.15,351.81,18347.34,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.81', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-10 23:00:00+00:00,18696.81,0.00,18696.81,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-11 00:00:00+00:00,18434.47,351.36,18083.11,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.36', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-11 07:00:00+00:00,18432.13,0.00,18432.13,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-14 02:00:00+00:00,18278.79,351.03,17927.76,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.03', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-14 09:00:00+00:00,18276.45,0.00,18276.45,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-14 15:00:00+00:00,18083.11,351.07,17732.04,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.07', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-15 01:00:00+00:00,18080.78,0.00,18080.78,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-15 13:00:00+00:00,17806.45,350.41,17456.04,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '350.41', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-16 02:00:00+00:00,17804.13,0.00,17804.13,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-16 13:00:00+00:00,17438.81,348.63,17090.18,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.63', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-16 15:00:00+00:00,17436.48,0.00,17436.48,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-17 05:00:00+00:00,17353.16,349.07,17004.09,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.07', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-17 19:00:00+00:00,17350.84,0.00,17350.84,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-18 17:00:00+00:00,17631.51,348.30,17283.21,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.30', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-21 06:00:00+00:00,17629.18,0.00,17629.18,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-22 00:00:00+00:00,18102.84,349.56,17753.28,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.56', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-22 14:00:00+00:00,18100.49,0.00,18100.49,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-23 00:00:00+00:00,18346.14,352.02,17994.12,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.02', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-23 17:00:00+00:00,18343.79,0.00,18343.79,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-24 05:00:00+00:00,18452.44,353.13,18099.31,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.13', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-25 18:00:00+00:00,18450.09,0.00,18450.09,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-28 06:00:00+00:00,18213.74,352.72,17861.02,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.72', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-29 01:00:00+00:00,18211.42,0.00,18211.42,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-29 07:00:00+00:00,17847.11,348.02,17499.09,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.02', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-29 08:00:00+00:00,17844.80,0.00,17844.80,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-29 14:00:00+00:00,17375.49,347.41,17028.08,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.41', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-29 15:00:00+00:00,17373.18,0.00,17373.18,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-07-30 12:00:00+00:00,16762.89,346.25,16416.64,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '346.25', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-07-31 03:00:00+00:00,16760.60,0.00,16760.60,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-04 06:00:00+00:00,18239.28,343.05,17896.23,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '343.05', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-05 15:00:00+00:00,18236.96,0.00,18236.96,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-06 08:00:00+00:00,18180.64,347.74,17832.90,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.74', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-06 09:00:00+00:00,18178.32,0.00,18178.32,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-07 02:00:00+00:00,18877.99,347.94,18530.05,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.94', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-07 07:00:00+00:00,18875.65,0.00,18875.65,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-07 09:00:00+00:00,18695.31,351.03,18344.28,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.03', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-07 22:00:00+00:00,18692.97,0.00,18692.97,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-08 03:00:00+00:00,18581.64,350.50,18231.14,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '350.50', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-08 15:00:00+00:00,18579.31,0.00,18579.31,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-08 20:00:00+00:00,18386.98,350.17,18036.81,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '350.17', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-11 01:00:00+00:00,18384.65,0.00,18384.65,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-11 08:00:00+00:00,18355.32,350.09,18005.23,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '350.09', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-12 00:00:00+00:00,18353.00,0.00,18353.00,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-13 15:00:00+00:00,19344.66,348.78,18995.88,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.78', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-15 00:00:00+00:00,19342.33,0.00,19342.33,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-18 02:00:00+00:00,19830.99,349.88,19481.11,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.88', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-19 06:00:00+00:00,19828.65,0.00,19828.65,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-19 16:00:00+00:00,19662.32,350.54,19311.78,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '350.54', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-20 07:00:00+00:00,19659.99,0.00,19659.99,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-21 00:00:00+00:00,19684.66,349.64,19335.02,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.64', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-21 08:00:00+00:00,19682.33,0.00,19682.33,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-21 11:00:00+00:00,19544.00,350.01,19193.99,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '350.01', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-22 09:00:00+00:00,19541.68,0.00,19541.68,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-25 05:00:00+00:00,20571.34,348.26,20223.08,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.26', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-26 09:00:00+00:00,20569.01,0.00,20569.01,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-27 01:00:00+00:00,20471.68,349.60,20122.08,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.60', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-27 16:00:00+00:00,20469.35,0.00,20469.35,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-08-28 22:00:00+00:00,20834.01,349.47,20484.54,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.47', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-08-29 14:00:00+00:00,20831.67,0.00,20831.67,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-01 12:00:00+00:00,20857.33,351.48,20505.85,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.48', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-02 21:00:00+00:00,20855.00,0.00,20855.00,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-04 02:00:00+00:00,20961.67,349.60,20612.07,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.60', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-04 20:00:00+00:00,20959.34,0.00,20959.34,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-07 23:00:00+00:00,21599.00,349.80,21249.20,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.80', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-08 13:00:00+00:00,21596.65,0.00,21596.65,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-08 17:00:00+00:00,21484.30,352.84,21131.46,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.84', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-08 18:00:00+00:00,21481.95,0.00,21481.95,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-09 03:00:00+00:00,21507.60,353.18,21154.42,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.18', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-09 05:00:00+00:00,21505.24,0.00,21505.24,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-09 06:00:00+00:00,21364.89,353.72,21011.17,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.72', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-10 05:00:00+00:00,21362.55,0.00,21362.55,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-10 06:00:00+00:00,21196.21,351.60,20844.61,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.60', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-10 08:00:00+00:00,21193.87,0.00,21193.87,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-10 20:00:00+00:00,21109.53,351.36,20758.17,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.36', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-10 22:00:00+00:00,21107.19,0.00,21107.19,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-11 00:00:00+00:00,21008.85,351.44,20657.41,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.44', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-11 04:00:00+00:00,21006.51,0.00,21006.51,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-11 05:00:00+00:00,20909.17,351.32,20557.85,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.32', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-11 12:00:00+00:00,20906.83,0.00,20906.83,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-12 02:00:00+00:00,21041.48,351.73,20689.75,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.73', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-12 18:00:00+00:00,21039.13,0.00,21039.13,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-15 00:00:00+00:00,20884.78,352.60,20532.18,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.60', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-15 04:00:00+00:00,20882.43,0.00,20882.43,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-15 05:00:00+00:00,20825.08,352.35,20472.73,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.35', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-15 08:00:00+00:00,20822.73,0.00,20822.73,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-17 00:00:00+00:00,22046.36,352.43,21693.93,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.43', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-18 09:00:00+00:00,22043.99,0.00,22043.99,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-18 13:00:00+00:00,21316.64,355.52,20961.12,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '355.52', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-18 23:00:00+00:00,21314.28,0.00,21314.28,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-19 05:00:00+00:00,21144.92,354.01,20790.91,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '354.01', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-19 16:00:00+00:00,21142.57,0.00,21142.57,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-22 00:00:00+00:00,20961.22,352.93,20608.29,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.93', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-22 05:00:00+00:00,20958.87,0.00,20958.87,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-23 05:00:00+00:00,21566.51,352.47,21214.04,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.47', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-23 18:00:00+00:00,21564.15,0.00,21564.15,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-24 00:00:00+00:00,21492.79,354.68,21138.11,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '354.68', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-24 23:00:00+00:00,21490.44,0.00,21490.44,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-25 12:00:00+00:00,21061.10,352.60,20708.50,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.60', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-26 01:00:00+00:00,21058.77,0.00,21058.77,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-29 16:00:00+00:00,21673.42,350.37,21323.05,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '350.37', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-30 07:00:00+00:00,21671.07,0.00,21671.07,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-30 13:00:00+00:00,21557.72,352.60,21205.12,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.60', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-30 14:00:00+00:00,21555.37,0.00,21555.37,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-30 15:00:00+00:00,21402.02,352.84,21049.18,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.84', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-09-30 16:00:00+00:00,21399.67,0.00,21399.67,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-09-30 19:00:00+00:00,21217.32,353.05,20864.27,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.05', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-01 04:00:00+00:00,21214.97,0.00,21214.97,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-01 09:00:00+00:00,20964.62,353.09,20611.53,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.09', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-02 02:00:00+00:00,20962.27,0.00,20962.27,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-02 13:00:00+00:00,20808.92,352.47,20456.45,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.47', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-03 00:00:00+00:00,20806.57,0.00,20806.57,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-05 23:00:00+00:00,20680.23,352.06,20328.17,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.06', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-06 14:00:00+00:00,20677.89,0.00,20677.89,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-07 05:00:00+00:00,20428.55,351.85,20076.70,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.85', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-08 10:00:00+00:00,20426.22,0.00,20426.22,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-09 07:00:00+00:00,20207.90,349.31,19858.59,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.31', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-10 01:00:00+00:00,20205.59,0.00,20205.59,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-13 07:00:00+00:00,20565.27,347.25,20218.02,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.25', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-14 02:00:00+00:00,20562.95,0.00,20562.95,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-14 07:00:00+00:00,20306.64,347.57,19959.07,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.57', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-14 13:00:00+00:00,20304.32,0.00,20304.32,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-15 11:00:00+00:00,20760.00,347.57,20412.43,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.57', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-15 20:00:00+00:00,20757.67,0.00,20757.67,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-16 06:00:00+00:00,20809.34,349.80,20459.54,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.80', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-16 16:00:00+00:00,20807.00,0.00,20807.00,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-17 08:00:00+00:00,21009.66,350.66,20659.00,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '350.66', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-21 00:00:00+00:00,21007.33,0.00,21007.33,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-21 02:00:00+00:00,20815.00,349.93,20465.07,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.93', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-21 22:00:00+00:00,20812.68,0.00,20812.68,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-22 10:00:00+00:00,20662.36,348.34,20314.02,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.34', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-22 14:00:00+00:00,20660.04,0.00,20660.04,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-23 02:00:00+00:00,20509.72,348.66,20161.06,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.66', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-23 13:00:00+00:00,20507.40,0.00,20507.40,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-24 03:00:00+00:00,20532.08,348.54,20183.54,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.54', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-24 12:00:00+00:00,20529.75,0.00,20529.75,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-27 04:00:00+00:00,20432.42,349.35,20083.07,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.35', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-27 10:00:00+00:00,20430.09,0.00,20430.09,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-27 16:00:00+00:00,20386.76,349.60,20037.16,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.60', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-27 18:00:00+00:00,20384.43,0.00,20384.43,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-28 07:00:00+00:00,20409.10,349.88,20059.22,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.88', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-29 14:00:00+00:00,20406.77,0.00,20406.77,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-29 18:00:00+00:00,19849.45,349.84,19499.61,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.84', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-30 04:00:00+00:00,19847.12,0.00,19847.12,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-30 11:00:00+00:00,19493.80,349.31,19144.49,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.31', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-10-30 23:00:00+00:00,19491.48,0.00,19491.48,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-10-31 13:00:00+00:00,19182.17,347.49,18834.68,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.49', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-03 03:00:00+00:00,19179.86,0.00,19179.86,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-03 11:00:00+00:00,19004.56,346.33,18658.23,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '346.33', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-03 12:00:00+00:00,19002.26,0.00,19002.26,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-03 13:00:00+00:00,18933.96,345.85,18588.11,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '345.85', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-03 15:00:00+00:00,18931.65,0.00,18931.65,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-04 11:00:00+00:00,18571.35,346.09,18225.26,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '346.09', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-04 23:00:00+00:00,18569.05,0.00,18569.05,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-07 01:00:00+00:00,19096.74,344.86,18751.88,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '344.86', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-07 12:00:00+00:00,19094.43,0.00,19094.43,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-07 20:00:00+00:00,19172.12,347.01,18825.11,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.01', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-11 09:00:00+00:00,19169.81,0.00,19169.81,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-11 22:00:00+00:00,19341.49,347.37,18994.12,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.37', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-12 15:00:00+00:00,19339.17,0.00,19339.17,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-13 00:00:00+00:00,19189.85,348.18,18841.67,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.18', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-13 07:00:00+00:00,19187.53,0.00,19187.53,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-13 23:00:00+00:00,19360.20,348.71,19011.49,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.71', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-17 22:00:00+00:00,19357.88,0.00,19357.88,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-18 11:00:00+00:00,19301.56,348.06,18953.50,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.06', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-18 12:00:00+00:00,19299.24,0.00,19299.24,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-18 16:00:00+00:00,19162.92,348.10,18814.82,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.10', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-19 03:00:00+00:00,19160.60,0.00,19160.60,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-19 09:00:00+00:00,19078.28,347.81,18730.47,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.81', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-19 11:00:00+00:00,19075.96,0.00,19075.96,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-19 13:00:00+00:00,18939.64,347.94,18591.70,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '347.94', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-20 08:00:00+00:00,18937.34,0.00,18937.34,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-21 10:00:00+00:00,18909.04,345.97,18563.07,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '345.97', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-24 02:00:00+00:00,18906.74,0.00,18906.74,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-24 17:00:00+00:00,18931.44,345.81,18585.63,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '345.81', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-25 08:00:00+00:00,18929.13,0.00,18929.13,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-26 07:00:00+00:00,19407.81,346.25,19061.56,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '346.25', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-26 17:00:00+00:00,19405.49,0.00,19405.49,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-11-27 05:00:00+00:00,19497.17,348.14,19149.03,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.14', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-11-28 15:00:00+00:00,19494.85,0.00,19494.85,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-01 18:00:00+00:00,19546.53,348.54,19197.99,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.54', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-02 13:00:00+00:00,19544.21,0.00,19544.21,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-02 15:00:00+00:00,19433.89,348.83,19085.06,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '348.83', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-02 19:00:00+00:00,19431.56,0.00,19431.56,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-03 22:00:00+00:00,19917.22,349.03,19568.19,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.03', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-04 11:00:00+00:00,19914.88,0.00,19914.88,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-04 12:00:00+00:00,19803.55,350.74,19452.81,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '350.74', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-05 05:00:00+00:00,19801.22,0.00,19801.22,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-05 11:00:00+00:00,19662.89,350.13,19312.76,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '350.13', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-08 00:00:00+00:00,19660.56,0.00,19660.56,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-08 13:00:00+00:00,19630.23,349.84,19280.39,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.84', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-09 01:00:00+00:00,19627.90,0.00,19627.90,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-09 13:00:00+00:00,19516.57,349.72,19166.85,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.72', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-10 05:00:00+00:00,19514.24,0.00,19514.24,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-11 06:00:00+00:00,20110.90,349.23,19761.67,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '349.23', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-11 11:00:00+00:00,20108.56,0.00,20108.56,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-11 21:00:00+00:00,20353.21,351.73,20001.48,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.73', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-15 11:00:00+00:00,20350.86,0.00,20350.86,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-15 19:00:00+00:00,20361.51,352.80,20008.71,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.80', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-16 11:00:00+00:00,20359.16,0.00,20359.16,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-16 18:00:00+00:00,20259.81,353.22,19906.59,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.22', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-17 14:00:00+00:00,20257.46,0.00,20257.46,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-18 08:00:00+00:00,20144.11,352.60,19791.51,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.60', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-19 00:00:00+00:00,20141.76,0.00,20141.76,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-19 04:00:00+00:00,20043.42,352.14,19691.28,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.14', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-19 13:00:00+00:00,20041.08,0.00,20041.08,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-19 22:00:00+00:00,19969.74,351.89,19617.85,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.89', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-22 00:00:00+00:00,19967.40,0.00,19967.40,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-23 13:00:00+00:00,20559.04,351.81,20207.23,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '351.81', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-23 23:00:00+00:00,20556.68,0.00,20556.68,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-24 03:00:00+00:00,20485.32,354.18,20131.14,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '354.18', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-25 22:00:00+00:00,20482.96,0.00,20482.96,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-26 06:00:00+00:00,20424.60,353.80,20070.80,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.80', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-26 13:00:00+00:00,20422.24,0.00,20422.24,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-26 16:00:00+00:00,20156.89,354.09,19802.80,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '354.09', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-29 00:00:00+00:00,20154.53,0.00,20154.53,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-29 04:00:00+00:00,19986.18,353.76,19632.42,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.76', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-29 08:00:00+00:00,19983.82,0.00,19983.82,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-29 11:00:00+00:00,19787.47,353.88,19433.59,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.88', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-29 14:00:00+00:00,19785.11,0.00,19785.11,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-29 16:00:00+00:00,19532.76,353.84,19178.92,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.84', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-29 21:00:00+00:00,19530.40,0.00,19530.40,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-30 09:00:00+00:00,19472.05,353.55,19118.50,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.55', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-30 10:00:00+00:00,19469.69,0.00,19469.69,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-30 11:00:00+00:00,19397.34,353.55,19043.79,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '353.55', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
+2025-12-31 11:00:00+00:00,19394.99,0.00,19394.99,USD,SIM-001,MARGIN,USD,[],False,{}
+2025-12-31 23:00:00+00:00,19378.64,352.76,19025.88,USD,SIM-001,MARGIN,USD,"[{'type': 'MarginBalance', 'initial': '0.00', 'maintenance': '352.76', 'currency': 'USD', 'instrument_id': 'EUR/USD.SIM'}]",False,{}
