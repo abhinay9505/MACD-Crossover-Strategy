@@ -1,4 +1,4 @@
-Objective
+
 Implement the same trading strategy across three different frameworks (vectorbt, Nautilus Trader, and MetaTrader 5) and run a backtest in each.
 This tests your ability to read documentation, adapt to different framework conventions, and produce working, reproducible code — using AI coding tools as you normally would.
 
